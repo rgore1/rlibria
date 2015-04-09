@@ -6,6 +6,8 @@ Basic Library:
 
 Simple application for managing books in Library in correct Category with Authors added by current User.
 
+CRUD 4 all models with tests. ( GUI tests, Models tests )
+
 Database Diagram:
 
 Book 

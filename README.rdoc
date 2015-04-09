@@ -1,3 +1,26 @@
 == README
 
 Ruby, Rails, SQLite
+
+Basic Library:
+
+Simple application for managing books in Library in correct Category with Authors added by current User.
+
+Database Diagram:
+
+Book 
+ -Name
+- User
+- Category
+- Authors
+
+User
+- Profile
+- ...
+
+Category
+- Name
+
+Author
+- Name
+
